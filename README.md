@@ -1,5 +1,5 @@
 👋 Hi, I’m @The9coder
-- 👀 I’m interested in solving problems related to python and c programming
+- 👀 I’m interested in solving problems related to programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on problems with different level of difficulty levels so I can learn to code better:)
 
