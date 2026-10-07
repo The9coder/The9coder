@@ -1,6 +1,6 @@
 👋 Hi, I’m @The9coder
-- 👀 I’m interested in solving problems related to programming
-- 🌱 I’m currently learning python
+- 👀 I’m interested in solving problems related to applications and debugging.
+- 🌱 I’m currently exploring python, file handling, OOPS, Security, Docker, AI/ML.
 - 💞️ I’m looking to collaborate on problems with different level of difficulty levels so I can learn to code better:)
 
 <!---
